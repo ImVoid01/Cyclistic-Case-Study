@@ -114,6 +114,7 @@ Business goal:
 Support marketing efforts by uncovering patterns that encourage casual riders to upgrade.
 
 ────────────────────────────
+
 Download Raw & Cleaned Data → [Cyclistic Case Study Data](https://drive.google.com/drive/folders/1bNv5c-dNhxJhwHbC2kk0FKPdpinkPpLw?usp=sharing)
 
 2. Prepare & Process: Data Cleaning
